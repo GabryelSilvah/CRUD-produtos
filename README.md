@@ -26,7 +26,7 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
   </tr>
     <tr>
     <td>POST</td>
-    <td>.../categorias/listar</td>
+    <td>.../categorias/Cadastrar</td>
   </tr>
     <tr>
     <td>PUT</td>
@@ -56,7 +56,7 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
   </tr>
     <tr>
     <td>POST</td>
-    <td>.../produtos/listar</td>
+    <td>.../produtos/Cadastrar</td>
   </tr>
     <tr>
     <td>PUT</td>
