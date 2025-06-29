@@ -46,9 +46,6 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
     <th>Rota</th>
   </tr>
   <tr>
-    <td>GET</td>
-    <td>.../produtos/listar</td>
-  </tr>
     <tr>
     <td>GET</td>
     <td>.../produtos/listar</td>
