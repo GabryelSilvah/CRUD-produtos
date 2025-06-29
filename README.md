@@ -8,8 +8,9 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
 - Spring Boot (API Back-end)
 - Postman (Teste dos endPoints)
 
-## Rotas
+## Rotas 
 
+### Categorias
 <table>
   <tr>
     <th>Verbo HTTP</th>
@@ -35,7 +36,19 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
     <td>DELETE</td>
     <td>.../categorias/excluir/{id}</td>
   </tr>
+</table>
 
+### Produtos
+
+<table>
+  <tr>
+    <th>Verbo HTTP</th>
+    <th>Rota</th>
+  </tr>
+  <tr>
+    <td>GET</td>
+    <td>.../produtos/listar</td>
+  </tr>
     <tr>
     <td>GET</td>
     <td>.../produtos/listar</td>
@@ -57,3 +70,4 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
     <td>.../produtos/excluir/{id}</td>
   </tr>
 </table>
+
