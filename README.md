@@ -10,3 +10,13 @@ Projeto API REST de cadastro de produtos e categorias. Projto referente a matér
 
 ## Rotas
 
+<table>
+  <tr>
+    <th>Verbo HTTP</th>
+    <th>Rota</th>
+  </tr>
+  <tr>
+    <td>Get</td>
+    <td>/categorias/listar</td>
+  </tr>
+</table>
